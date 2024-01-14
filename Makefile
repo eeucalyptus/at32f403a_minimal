@@ -1,4 +1,4 @@
-NAME=at32f4_scope
+NAME=at32f403a_template
 OBJS=main.o startup_at32f403a_407.o at32f403a_system.o
 
 PREFIX?=arm-none-eabi-
